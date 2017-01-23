@@ -1,3 +1,4 @@
 //Проверка на установку и версию
 vendor/bin/phpunit --version
 //Запуск теста
+vendor/bin/phpunit tests
